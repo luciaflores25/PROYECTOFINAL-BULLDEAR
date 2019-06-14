@@ -1,0 +1,88 @@
+/* Animación barra de navegación */
+@keyframes changeColor {
+  0% {background-color: aliceblue;}
+  10% {background-color: antiquewhite;}
+  20% {background-color: bisque;}
+  30% {background-color: darkkhaki;}
+  40% {background-color: darksalmon;}
+  50% {background-color: darkseagreen;}
+  60% {background-color: indianred;}
+  70% {background-color: khaki;}
+  80% {background-color: lemonchiffon;}
+  90% {background-color: lightgreen;}
+  100% {background-color: aliceblue;}
+}
+body{
+  padding: 70px;
+  min-height: 700px;
+}
+.navbar, .navbar-expand-lg {
+  animation-name: changeColor !important;
+  animation-duration: 40s !important;
+  animation-iteration-count: infinite !important;
+}
+
+.pagination {
+	justify-content: center !important;
+}
+/* Estilo de los productos del home */
+.row {
+	margin: 0 auto !important;
+}
+.card {
+	margin: 0.5em auto !important;
+  width: 17rem !important;
+}
+/* Estilo alertas */
+.alertas {
+  width: 70% !important;
+  text-align: center !important;
+  margin: 20% auto !important;
+}
+.container mark {
+  background-color: yellow !important;
+}
+.container textarea {
+  height: 150px !important;
+}
+/* Estilo errores 404 y 401 */
+.containerError {
+	width: 60%;
+	margin: 12% auto;
+	text-align: center;
+}
+.numeroError {
+	font-size: 4em;
+	font-weight: lighter;
+}
+.fa-frown {
+	font-size: 10em;
+}
+.btnError {
+	margin-top: 4%;
+}
+/* Estilo mostrar detalles de los productos */
+.productoShow {
+  width: 500px !important;
+  margin:10% auto !important;
+}
+/* Estilo Slider */
+.btnSlider {
+  margin:2%;
+}
+span.icon {
+  font-family: FontAwesome;
+}
+.fa-heart{
+  color:red !important;
+  font-size: 1.5em;
+}
+.corazon {
+  background-color: white !important;
+}
+.delDeseo {
+  margin-left: 2em;
+}
+.lupaHome {
+  margin-right: 0.5em;
+}
