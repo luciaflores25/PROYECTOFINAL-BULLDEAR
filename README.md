@@ -8,7 +8,7 @@
 ## Tecnologías utilizadas
  _Escribir aquí las tecnologías utilizadas_
 
-|         _Escribir aquí las tecnologías utilizadas_  	    |
+|         _Escribir aquí las tecnologías utilizadas_  	    | |  |   |
 |---------------	|--------	|-----------------------------------	|-------------------------|
 |     PHP 7     	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik Company       	|
 | 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| OP5 ITRS Group (SWE)    |
