@@ -31,6 +31,17 @@ _Tanto para los usuarios no registrados como para los registrados siempre aparec
 
 <img src="img/21.png" width="425"/> <img src="img/22.png" width="425"/> 
 
+### Funcionalidades: <b>Usuario registrado</b>
+
+_Al entrar en su cuenta, el usuario verá el listado de productos igual que se veían antes de iniciar la sesión, junto con un botón en forma de corazón que al ser pulsado se añadirá el producto seleccionado a la lista de deseos y la página se redireccionará a la lista de deseos, junto a ese botón también aparecerá un botón de compra que al ser pulsado la página será redireccionada a la cesta de la compra donde se irán almacenando los productos que se deseen comprar, la cantidad, el precio de cada producto y el total._
+
+<img src="img/4.png" width="550"/>
+
+_El usuario registrado tendrá la opción de ver sus datos personales pinchando en <b>Perfil</b> desde la barra de navegación, podrá editarlo y cambiar su contraseña cuando le sea conveniente._
+
+<img src="img/5.png" width="600"/> 
+<img src="img/6.png" width="425"/> <img src="img/7.png" width="425"/>
+
 
 
 
