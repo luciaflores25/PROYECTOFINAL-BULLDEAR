@@ -8,94 +8,14 @@
 ## Tecnologías utilizadas
  _Escribir aquí las tecnologías utilizadas_
 
-|         _Escribir aquí las tecnologías utilizadas_  	    | |  |   |
-|---------------	|--------	|-----------------------------------	|-------------------------|
-|     PHP 7     	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik Company       	|
-| 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| OP5 ITRS Group (SWE)    |
-| 09:40 - 10:00 	| 2º DAW 	| Campos Jurado, Rafael             	| BCS               	    |
-| 10:00 - 10:20 	| 2º DAW 	| Martín Castro, Jesús              	| BCS               	    |
-| 10:20 - 10:40 	| 2º DAW 	| Balsas Martín, David              	| INDRA             	    |
-| 10:40 - 11:00 	| 2º DAW 	| Bernal Rodríguez, Juan Francisco  	| INDRA             	    |
-| 11:30 - 11:50 	| 2º DAW 	| Puche Velasco, Alejandro          	| INDRA             	    |
-| 11:50 - 12:10 	| 2º DAW 	| Ruiz López, Alejandro             	| Future Connections (NLD)|
-| 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connections (NLD)|
-| 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connections (NLD)|
-| 12:50 - 13:10 	| 2º DAM 	| García Ruiz, Cintia               	| Properly          	    |
-
-|===
-
-| Cell in column 1, row 1 | Cell in column 2, row 1
-
-| Cell in column 1, row 2 | Cell in column 2, row 2
-
-| Cell in column 1, row 3 | Cell in column 2, row 3
-
-|===
+||   _Escribir aquí las tecnologías utilizadas_   ||
+|----------------|----------------|----------------|
+|     PHP 7     	|     HTML5     	|     CSS3      	|
+|     ES6       	|     MYSQL     	|     PHP 7     	|
+|     PHP 7     	|     PHP 7     	|     PHP 7     	|
 
 
-[cols="3*"]
-.Tabla con titulo
-|===
-|si queremos poner cada celda
-|en una linea
-|mejor indicarle en la cabecera cuantas columnas son
 
-|si queremos poner cada celda
-|en una linea
-|mejor indicarle en la cabecera cuantas columnas son
-|===
-
-[cols="1,2,1"]
-.Tabla repartiendo espacio
-|===
-|si queremos poner cada celda
-|en una linea
-|mejor indicarle en la cabecera cuantas columnas son
-
-|si queremos poner cada celda
-|en una linea
-|mejor indicarle en la cabecera cuantas columnas son
-|===
-
-[cols="<,^,>"]
-.Tabla alineando
-|===
-|a la izquierda
-|centrada
-|a la derecha
-
-|a la izquierda
-|centrada
-|a la derecha
-|===
-
-
-[cols=".<2,.^5,^.>3"]
-.Tabla copiada de la docu oficial
-|===
-|Cell in column 1, row 1 with lots and lots and lots and lots of content
-|Cell in column 2, row 1
-|Cell in column 3, row 1
-
-|Cell in column 1, row 2
-|Cell in column 2, row 2
-|Cell in column 3, row 2 and another bucket of content, and then a jelly roll of content
-|===
-
-
-Lógicamente podemos indicar nuestras cabeceras si así se lo decimos:
-
-[cols=2*,options="header"]
-|===
-|Name of Column 1
-|Name of Column 2
-
-|Cell in column 1, row 1
-|Cell in column 2, row 1
-
-|Cell in column 1, row 2
-|Cell in column 2, row 2
-|===
 
 ## Expicación del proyecto
  _En cuanto a los usuarios, la página tiene varios tipos. Por un lado, están los usuarios no registrados, que únicamente pueden consultar la lista de zapatillas, visualizarlas por categorías, acceder a la galería de imágenes y a una ruleta de marcas que podrá ser de gran ayuda para la elección a la hora de la compra. Por otro lado, están los usuarios registrados, que pueden acceder a una mayor funcionalidad dentro de la aplicación, como por ejemplo añadir zapatillas a la lista de deseos o añadir zapatillas a la cesta de la compra._ 
