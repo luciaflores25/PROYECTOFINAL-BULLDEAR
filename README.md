@@ -21,7 +21,7 @@
 ### Funcionalidades: <b>Usuario no registrado</b>
  _Al entrar al enlace por primera vez, se mostrará una barra de navegación con dos cajas de texto en las que el usuario ha de introducir su nombre de usuario y su contraseña para loguearse con sus credenciales, en caso de no estar registrado, el usuario deberá hacerlo pinchando en el botón de registro, que una vez completado correctamente le volverá a redireccionar al inicio donde deberá escribir en las cajas de texto su nombre de usuario y contraseña elegida en el momento del registro para iniciar sesión con su cuenta._
 
-![alt-text-1](img/1.png "title-1") ![alt-text-2](img/3.png "title-2") 
+<img src="img/1.png" width="425"/> <img src="img/1.png" width="425"/> 
 
 
 
