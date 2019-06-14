@@ -21,6 +21,82 @@
 | 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connections (NLD)|
 | 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connections (NLD)|
 | 12:50 - 13:10 	| 2º DAM 	| García Ruiz, Cintia               	| Properly          	    |
+
+|===
+
+| Cell in column 1, row 1 | Cell in column 2, row 1
+
+| Cell in column 1, row 2 | Cell in column 2, row 2
+
+| Cell in column 1, row 3 | Cell in column 2, row 3
+
+|===
+
+
+[cols="3*"]
+.Tabla con titulo
+|===
+|si queremos poner cada celda
+|en una linea
+|mejor indicarle en la cabecera cuantas columnas son
+
+|si queremos poner cada celda
+|en una linea
+|mejor indicarle en la cabecera cuantas columnas son
+|===
+
+[cols="1,2,1"]
+.Tabla repartiendo espacio
+|===
+|si queremos poner cada celda
+|en una linea
+|mejor indicarle en la cabecera cuantas columnas son
+
+|si queremos poner cada celda
+|en una linea
+|mejor indicarle en la cabecera cuantas columnas son
+|===
+
+[cols="<,^,>"]
+.Tabla alineando
+|===
+|a la izquierda
+|centrada
+|a la derecha
+
+|a la izquierda
+|centrada
+|a la derecha
+|===
+
+
+[cols=".<2,.^5,^.>3"]
+.Tabla copiada de la docu oficial
+|===
+|Cell in column 1, row 1 with lots and lots and lots and lots of content
+|Cell in column 2, row 1
+|Cell in column 3, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2 and another bucket of content, and then a jelly roll of content
+|===
+
+
+Lógicamente podemos indicar nuestras cabeceras si así se lo decimos:
+
+[cols=2*,options="header"]
+|===
+|Name of Column 1
+|Name of Column 2
+
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|===
+
 ## Expicación del proyecto
  _En cuanto a los usuarios, la página tiene varios tipos. Por un lado, están los usuarios no registrados, que únicamente pueden consultar la lista de zapatillas, visualizarlas por categorías, acceder a la galería de imágenes y a una ruleta de marcas que podrá ser de gran ayuda para la elección a la hora de la compra. Por otro lado, están los usuarios registrados, que pueden acceder a una mayor funcionalidad dentro de la aplicación, como por ejemplo añadir zapatillas a la lista de deseos o añadir zapatillas a la cesta de la compra._ 
 
