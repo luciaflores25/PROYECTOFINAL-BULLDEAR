@@ -7,11 +7,8 @@
 
 ## Tecnologías utilizadas
  _Escribir aquí las tecnologías utilizadas_
- 
-.Tabla con titulo
 
-| Hora          	| Curso  	| Nombre                            	| Empresa           	    |
-|---------------	|--------	|-----------------------------------	|-------------------------|
+| PHP 7          	| HTML  	| Nombre                            	| Empresa           	    |
 | 09:00 - 09:20 	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik Company       	|
 | 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| OP5 ITRS Group (SWE)    |
 | 09:40 - 10:00 	| 2º DAW 	| Campos Jurado, Rafael             	| BCS               	    |
