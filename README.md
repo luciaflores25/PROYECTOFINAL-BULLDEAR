@@ -42,6 +42,41 @@ _El usuario registrado tendrá la opción de ver sus datos personales pinchando 
 <img src="img/5.png" width="800"/> <br>
 <img src="img/6.png" width="400"/> <img src="img/7.png" width="400"/>
 
+_Otra ventaja del usuario registrado es la lista de deseos, a la que se podrá acceder también desde la barra de navegación pinchando en <b>Lista de Deseos</b>, donde aparecerá una lista de los productos que se han ido añadiendo pulsando en el botón del corazón. Desde esa parte también se podrán añadir los productos a la cesta de la compra y borrarlos de la lista de deseos._
+
+<img src="img/8.png" width="750"/> 
+<img src="img/9.png" width="750"/>
+
+_El usuario registrado también podrá ver la lista de productos que ha ido añadiendo a la cesta, junto con la cantidad, el precio de cada producto y el total a pagar, a esto accederá pinchando en <b>Cesta</b> desde la barra de navegación._
+
+<img src="img/10.png" width="750"/> 
+<img src="img/11.png" width="750"/>
+
+_Para salir y finalizar la sesión, el usuario únicamente tendrá que pinchar en el botón Salir, el último elemento de la barra de navegación junto al nombre de usuario._
+
+<img src="img/12.png">
+
+### Funcionalidades: <b>Usuario Administrador</b>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
