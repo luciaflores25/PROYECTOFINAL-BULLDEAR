@@ -8,8 +8,9 @@
 ## Tecnologías utilizadas
  _Escribir aquí las tecnologías utilizadas_
 
-| PHP 7          	| HTML  	| Nombre                            	| Empresa           	    |
-| 09:00 - 09:20 	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik Company       	|
+|         _Escribir aquí las tecnologías utilizadas_  	    |
+|---------------	|--------	|-----------------------------------	|-------------------------|
+|     PHP 7     	| 2º DAW 	| Caballero Molina, Francisco Jesús 	| Freepik Company       	|
 | 09:20 - 09:40 	| 2º DAW 	| Villalba Sánchez, Adrián          	| OP5 ITRS Group (SWE)    |
 | 09:40 - 10:00 	| 2º DAW 	| Campos Jurado, Rafael             	| BCS               	    |
 | 10:00 - 10:20 	| 2º DAW 	| Martín Castro, Jesús              	| BCS               	    |
@@ -20,7 +21,6 @@
 | 12:10 - 12:30 	| 2º DAW 	| Blanco Salgado, Lucía             	| Future Connections (NLD)|
 | 12:30 - 12:50 	| 2º DAM 	| Fernández García, José Antonio    	| Future Connections (NLD)|
 | 12:50 - 13:10 	| 2º DAM 	| García Ruiz, Cintia               	| Properly          	    |
-
 ## Expicación del proyecto
  _En cuanto a los usuarios, la página tiene varios tipos. Por un lado, están los usuarios no registrados, que únicamente pueden consultar la lista de zapatillas, visualizarlas por categorías, acceder a la galería de imágenes y a una ruleta de marcas que podrá ser de gran ayuda para la elección a la hora de la compra. Por otro lado, están los usuarios registrados, que pueden acceder a una mayor funcionalidad dentro de la aplicación, como por ejemplo añadir zapatillas a la lista de deseos o añadir zapatillas a la cesta de la compra._ 
 
