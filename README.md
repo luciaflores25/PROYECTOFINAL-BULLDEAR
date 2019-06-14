@@ -9,6 +9,7 @@
  _Escribir aquí las tecnologías utilizadas_
  
 .Tabla con titulo
+
 |===
 |si queremos poner cada celda
 |en una linea
@@ -18,6 +19,7 @@
 |en una linea
 |mejor indicarle en la cabecera cuantas columnas son
 |===
+
 ## Expicación del proyecto
  _En cuanto a los usuarios, la página tiene varios tipos. Por un lado, están los usuarios no registrados, que únicamente pueden consultar la lista de zapatillas, visualizarlas por categorías, acceder a la galería de imágenes y a una ruleta de marcas que podrá ser de gran ayuda para la elección a la hora de la compra. Por otro lado, están los usuarios registrados, que pueden acceder a una mayor funcionalidad dentro de la aplicación, como por ejemplo añadir zapatillas a la lista de deseos o añadir zapatillas a la cesta de la compra._ 
 
