@@ -64,13 +64,14 @@ _El usuario administrador iniciará sesión igual que un usuario normal, una vez
 
 _El administrador podrá añadir, editar y eliminar categorías pinchando en <b>Categorías</b> desde la barra de navegación._
 
-<img src="img/14.png" width="500"/> 
-<img src="img/15.png" width="500"/>
+<img src="img/14.png" width="700"/> 
+<img src="img/15.png" width="300"/>
 
 _De la misma manera pinchando en <b>Usuarios</b> desde la barra de navegación podrá añadir, editar y eliminar usuarios. También podrá cambiarle la contraseña a cualquier usuario en caso de olvido._
 
-<img src="img/16.png" width="700"/> 
-<img src="img/17.png" width="350"/> <img src="img/18.png" width="350"/>
+<img src="img/16.png" width="600"/> 
+<img src="img/17.png" width="600"/> 
+<img src="img/18.png" width="250"/>
 
 
 
