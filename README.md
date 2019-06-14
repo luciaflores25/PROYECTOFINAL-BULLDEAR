@@ -73,7 +73,16 @@ _De la misma manera pinchando en <b>Usuarios</b> desde la barra de navegación p
 <img src="img/17.png" width="600"/> 
 <img src="img/18.png" width="250"/>
 
+_Por último, podrá administrar los <b>productos</b> que se muestran en la pantalla principal, añadiendo nuevos, editando los que ya existen y eliminando el que desee._
 
+<img src="img/19.png" width="600"/> 
+<img src="img/20.png" width="600"/>
+
+## Base de datos relacional
+
+_La base de datos de bull&dear consta de cinco tablas: usuarios, productos, cesta, categorías y lista de deseos. Aquí os dejo un esquema para que observeis la relación entre cada tabla._
+
+<img src="img/23.png" width="600"/> 
 
 
 
