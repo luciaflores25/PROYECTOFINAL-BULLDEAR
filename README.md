@@ -44,19 +44,33 @@ _El usuario registrado tendrá la opción de ver sus datos personales pinchando 
 
 _Otra ventaja del usuario registrado es la lista de deseos, a la que se podrá acceder también desde la barra de navegación pinchando en <b>Lista de Deseos</b>, donde aparecerá una lista de los productos que se han ido añadiendo pulsando en el botón del corazón. Desde esa parte también se podrán añadir los productos a la cesta de la compra y borrarlos de la lista de deseos._
 
-<img src="img/8.png" width="750"/> 
-<img src="img/9.png" width="750"/>
+<img src="img/8.png" width="600"/> 
+<img src="img/9.png" width="600"/>
 
 _El usuario registrado también podrá ver la lista de productos que ha ido añadiendo a la cesta, junto con la cantidad, el precio de cada producto y el total a pagar, a esto accederá pinchando en <b>Cesta</b> desde la barra de navegación._
 
-<img src="img/10.png" width="750"/> 
-<img src="img/11.png" width="750"/>
+<img src="img/10.png" width="600"/> 
+<img src="img/11.png" width="600"/>
 
 _Para salir y finalizar la sesión, el usuario únicamente tendrá que pinchar en el botón Salir, el último elemento de la barra de navegación junto al nombre de usuario._
 
-<img src="img/12.png">
+<img src="img/12.png" width="600"/>
 
 ### Funcionalidades: <b>Usuario Administrador</b>
+
+_El usuario administrador iniciará sesión igual que un usuario normal, una vez dentro del HOME aparecerá lo mismo que cuando no está la sesión iniciada. La barra de navegación será distinta a la de los usuarios normales._
+
+<img src="img/2.png" width="600"/>
+
+_El administrador podrá añadir, editar y eliminar categorías pinchando en <b>Categorías</b> desde la barra de navegación._
+
+<img src="img/14.png" width="500"/> 
+<img src="img/15.png" width="500"/>
+
+_De la misma manera pinchando en <b>Usuarios</b> desde la barra de navegación podrá añadir, editar y eliminar usuarios. También podrá cambiarle la contraseña a cualquier usuario en caso de olvido._
+
+<img src="img/16.png" width="700"/> 
+<img src="img/17.png" width="350"/> <img src="img/18.png" width="350"/>
 
 
 
