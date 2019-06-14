@@ -39,8 +39,8 @@ _Al entrar en su cuenta, el usuario verá el listado de productos igual que se v
 
 _El usuario registrado tendrá la opción de ver sus datos personales pinchando en <b>Perfil</b> desde la barra de navegación, podrá editarlo y cambiar su contraseña cuando le sea conveniente._
 
-<img src="img/5.png" width="600"/> 
-<img src="img/6.png" width="425"/> <img src="img/7.png" width="425"/>
+<img src="img/5.png" width="800"/> <br>
+<img src="img/6.png" width="400"/> <img src="img/7.png" width="400"/>
 
 
 
