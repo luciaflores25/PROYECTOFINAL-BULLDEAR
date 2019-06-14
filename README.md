@@ -5,9 +5,9 @@
 
 #### _La web es accesible desde cualquier navegador por internet, escribiendo la siguiente dirección:_ [bullanddear.epizy.com/aplicacion](http://bullanddear.epizy.com/documentacion)
 
+## Tecnologías utilizadas
 
-
-|:wrench: |   ## Tecnologías utilizadas  |:wrench: |
+|:wrench: |   Tecnológias  |:wrench: |
 |---------|----------------|---------|
 |:wrench: |     PHP 7     	|:wrench: |
 |:wrench: |     HTML 5    	|:wrench: |
