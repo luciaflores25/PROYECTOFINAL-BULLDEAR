@@ -3,8 +3,7 @@ class Router {
 	public $route;
 	public function __construct($route) {
 		$session_options = array(
-			'use_only_cookies' => 1,
-			'auto_start' => 1,
+			session_start (),
 			'read_and_close' => true
 		);
 		if( !isset($_SESSION) )  session_start($session_options);
