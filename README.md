@@ -13,7 +13,7 @@
 
 _En el despliegue con máquinas virtuales he utilizado una máquina debiam como servidor y una máquina windows como cliente._
 * Red: <b>10.0.2.8</b>
-* Url `` www.bullanddear.virtual ´´
+* Url `` www.bullanddear.virtual ``
 * .ova máquina windowsXP - Cliente: [WINLigth_Cliente](https://drive.google.com/file/d/15bKtTnUn-4RqlVfnFACePceRoNfAUzdV)
 * .ova máquina Debian8 - Servidor : [Debiaan8_Servidor](https://drive.google.com/file/d/14qUkGtYtFDZULMyfka-3m57-_O4ESzAx)
 
